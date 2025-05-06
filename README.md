@@ -2,7 +2,6 @@
 
 A modern, interactive quiz application built with Flutter that offers an engaging user experience with beautiful animations and dynamic content.
 
-![Flutter Quiz App](assets/images/app_preview.png)
 
 ## Features
 
